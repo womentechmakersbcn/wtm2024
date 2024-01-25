@@ -1,3 +1,0 @@
-<div class="site-info">
-	<a href="https://wtwtmbarcelona.netlify.app/wp-content/themes/coming-soon-lite/template-parts/footer/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_html() in C:\xampp\htdocs\wtmbarcelona\wp-content\themes\coming-soon-lite\template-parts\footer\site-info.php:12_Stack trace:_#0 {main}_  thrown in <b>C:\xampp\htdocs\wtmbarcelona\wp-content\themes\coming-soon-lite\template-parts\footer\site-info.php</b> on line <b>12</b><br />"></a>
-</div>
